@@ -1,8 +1,7 @@
 vcdm
 ====
 
-VCDM stands for Vincenzo Consiglio Dictionary Manager
-I would like to do a simple dictionary manager, emample for dictionary attack attempts.
+VCDM stands for Vincenzo Consiglio Dictionary Manager. I would like to do a simple dictionary manager, example for dictionary attack attempts.
 
 This is a very simple, stupid and incomplete dictionary manager. 
 Actually it can only:
