@@ -1,4 +1,4 @@
 vcdm
 ====
 
-VCDM
+Vincenzo Consiglio Dictionary Manager
